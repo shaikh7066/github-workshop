@@ -18,3 +18,9 @@
   25 git status
   26 git restore testing.py
   27 git status
+    git remote -v
+    git status
+    git remote set-url origin link
+    git remote -v
+    git push origin master
+    
