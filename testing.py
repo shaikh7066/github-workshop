@@ -1,0 +1,1 @@
+print("hello dosto,kay haal chaal,kaise hai sub log?")
